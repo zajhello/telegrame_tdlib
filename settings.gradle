@@ -1,0 +1,3 @@
+rootProject.name = "tdlib_test"
+include ':app'
+include ':libtd'
